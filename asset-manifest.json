@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-useReducer/static/css/main.fbc24ecb.chunk.css",
+    "main.js": "/react-useReducer/static/js/main.f813d1fb.chunk.js",
+    "main.js.map": "/react-useReducer/static/js/main.f813d1fb.chunk.js.map",
+    "runtime-main.js": "/react-useReducer/static/js/runtime-main.c9aa5b48.js",
+    "runtime-main.js.map": "/react-useReducer/static/js/runtime-main.c9aa5b48.js.map",
+    "static/js/2.a91ce2fa.chunk.js": "/react-useReducer/static/js/2.a91ce2fa.chunk.js",
+    "static/js/2.a91ce2fa.chunk.js.map": "/react-useReducer/static/js/2.a91ce2fa.chunk.js.map",
+    "index.html": "/react-useReducer/index.html",
+    "static/css/main.fbc24ecb.chunk.css.map": "/react-useReducer/static/css/main.fbc24ecb.chunk.css.map",
+    "static/js/2.a91ce2fa.chunk.js.LICENSE.txt": "/react-useReducer/static/js/2.a91ce2fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9aa5b48.js",
+    "static/js/2.a91ce2fa.chunk.js",
+    "static/css/main.fbc24ecb.chunk.css",
+    "static/js/main.f813d1fb.chunk.js"
+  ]
+}
